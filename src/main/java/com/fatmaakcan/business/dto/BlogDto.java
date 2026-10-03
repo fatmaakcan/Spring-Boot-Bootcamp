@@ -45,7 +45,7 @@ public class BlogDto extends AuditingAwareBaseDto implements Serializable {
     // Image
     private String image;
 
-    // //////////////////////////////////
+    /// //////////////////////////////////
 
     // Realation
 
